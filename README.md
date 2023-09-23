@@ -48,7 +48,22 @@ python manage.py runserver
 
 
 # Screenshots <a name="screenshots"></a>
-**LogIn Page**
+**-LogIn Page**
 
 <img width="949" alt="logIn1" src="https://github.com/aksaurav/CreatorsLab/assets/108950069/748e4c36-8421-4c55-8610-41ec03bbb10d">
+
+**-SignUp page**
+
+<img width="960" alt="signup1" src="https://github.com/aksaurav/CreatorsLab/assets/108950069/195caa7f-8cc6-407e-a764-a067be031a35">
+
+**-Home/Upload File Page**
+
+<img width="960" alt="Screenshot 2023-09-23 203829" src="https://github.com/aksaurav/CreatorsLab/assets/108950069/8371b31a-7ef6-4647-865d-228165da7a76">
+
+
+# Features <a name="features"></a>
+
+1. User authentication (Sign Up, Login).
+2. File upload functionality.
+3. Clean and intuitive user interface.
 
