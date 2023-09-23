@@ -1,4 +1,4 @@
-#Django File Uploader App
+#Django File Uploader App#
 
 A Django web application that allows users to sign up, log in, and upload files.\
 
@@ -39,3 +39,5 @@ python manage.py runserver
 ```
 
 6. Open your web browser and go to http://localhost:8000 to access the application.
+
+#Usage <a name="usage"></a>
