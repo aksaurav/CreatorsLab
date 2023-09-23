@@ -1,4 +1,4 @@
-# Django File Uploader App
+# CreatorsLab Internship Assignment: Django Web Application
 
 A Django web application that allows users to sign up, log in, and upload files.\
 
