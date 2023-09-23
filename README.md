@@ -49,3 +49,6 @@ python manage.py runserver
 
 # Screenshots <a name="screenshots"></a>
 **LogIn Page**
+
+<img width="949" alt="logIn1" src="https://github.com/aksaurav/CreatorsLab/assets/108950069/748e4c36-8421-4c55-8610-41ec03bbb10d">
+
